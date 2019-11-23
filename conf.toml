@@ -1,0 +1,7 @@
+[app]
+bulk_imports=2000
+workers=4
+
+[es]
+address="http://127.0.0.1:32793"
+index_name="nyc_trip"
